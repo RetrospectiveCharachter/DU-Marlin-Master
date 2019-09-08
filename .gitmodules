@@ -7,3 +7,6 @@
 [submodule "android_frameworks_base"]
 	path = android_frameworks_base
 	url = https://github.com/RetrospectiveCharachter/android_frameworks_base.git
+[submodule "android_build"]
+	path = android_build
+	url = https://github.com/RetrospectiveCharachter/android_build.git
