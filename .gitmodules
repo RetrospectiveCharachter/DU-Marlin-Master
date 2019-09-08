@@ -4,3 +4,6 @@
 [submodule "android_vendor_google"]
 	path = android_vendor_google
 	url = https://github.com/RetrospectiveCharachter/android_vendor_google.git
+[submodule "android_frameworks_base"]
+	path = android_frameworks_base
+	url = https://github.com/RetrospectiveCharachter/android_frameworks_base.git
