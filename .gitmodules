@@ -16,3 +16,9 @@
 [submodule "android_kernel_google_marlin"]
 	path = android_kernel_google_marlin
 	url = https://github.com/RetrospectiveCharachter/android_kernel_google_marlin.git
+[submodule "android_system_qcom"]
+	path = android_system_qcom
+	url = https://github.com/RetrospectiveCharachter/android_system_qcom.git
+[submodule "android_system_bt"]
+	path = android_system_bt
+	url = https://github.com/RetrospectiveCharachter/android_system_bt.git
