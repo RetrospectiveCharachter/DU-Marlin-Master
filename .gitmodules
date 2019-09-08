@@ -1,3 +1,6 @@
 [submodule "android_device_google_marlin"]
 	path = android_device_google_marlin
 	url = https://github.com/RetrospectiveCharachter/android_device_google_marlin.git
+[submodule "android_vendor_google"]
+	path = android_vendor_google
+	url = https://github.com/RetrospectiveCharachter/android_vendor_google.git
