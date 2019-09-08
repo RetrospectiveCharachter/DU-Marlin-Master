@@ -13,3 +13,6 @@
 [submodule "android_vendor_du"]
 	path = android_vendor_du
 	url = https://github.com/RetrospectiveCharachter/android_vendor_du.git
+[submodule "android_kernel_google_marlin"]
+	path = android_kernel_google_marlin
+	url = https://github.com/RetrospectiveCharachter/android_kernel_google_marlin.git
