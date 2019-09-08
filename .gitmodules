@@ -10,3 +10,6 @@
 [submodule "android_build"]
 	path = android_build
 	url = https://github.com/RetrospectiveCharachter/android_build.git
+[submodule "android_vendor_du"]
+	path = android_vendor_du
+	url = https://github.com/RetrospectiveCharachter/android_vendor_du.git
