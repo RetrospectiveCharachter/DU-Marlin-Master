@@ -1,0 +1,24 @@
+[submodule "android_device_google_marlin"]
+	path = android_device_google_marlin
+	url = https://github.com/RetrospectiveCharachter/android_device_google_marlin.git
+[submodule "android_vendor_google"]
+	path = android_vendor_google
+	url = https://github.com/RetrospectiveCharachter/android_vendor_google.git
+[submodule "android_frameworks_base"]
+	path = android_frameworks_base
+	url = https://github.com/RetrospectiveCharachter/android_frameworks_base.git
+[submodule "android_build"]
+	path = android_build
+	url = https://github.com/RetrospectiveCharachter/android_build.git
+[submodule "android_vendor_du"]
+	path = android_vendor_du
+	url = https://github.com/RetrospectiveCharachter/android_vendor_du.git
+[submodule "android_kernel_google_marlin"]
+	path = android_kernel_google_marlin
+	url = https://github.com/RetrospectiveCharachter/android_kernel_google_marlin.git
+[submodule "android_system_qcom"]
+	path = android_system_qcom
+	url = https://github.com/RetrospectiveCharachter/android_system_qcom.git
+[submodule "android_system_bt"]
+	path = android_system_bt
+	url = https://github.com/RetrospectiveCharachter/android_system_bt.git
